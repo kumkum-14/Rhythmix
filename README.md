@@ -1,7 +1,7 @@
 ## App Screenshots
 
 ### App Screens
-![Permission](https://github.com/kumkum-14/Rhythmix/commit/4952a80adf00975a97390d1ca1e9a682c967db56)
+![Permission](https://github.com/kumkum-14/Rhythmix/blob/main/App%20Screens.png)
 
 ### Permission
 ![Permission](https://github.com/kumkum-14/Rhythmix/blob/main/OpenApp.jpeg)
